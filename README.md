@@ -4,7 +4,7 @@
   <h2>Opaaa!! Belezaa ??</h2>
 <br>
   
-### Tecnologias que eu uso
+### Tecnologias que uso atualmente
 <br>
 <br>
 <div style="display: inline_block">
@@ -20,7 +20,6 @@
 ### Contato
 <br>
 <br>
-
 <p>
 <a href="https://www.linkedin.com/in/herico-lima-de-campos" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Herico Campos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -28,6 +27,10 @@
 <a href="https://www.instagram.com/herico_campos/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Herico Campos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+ <a href="https://discord.gg/Rye9dpW" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Discord group-05122A?style=flat&logo=discord" alt="discord"/>
+</a>
 </p>
+ <p>herico_campos@hotmail.com</p>
 
 </div>
