@@ -1,6 +1,10 @@
 <div align="center">
-
-## Tecnologias que eu uso
+ 
+ 
+  <h2>Opaaa!! Belezaa ??</h2>
+<br>
+  
+### Tecnologias que eu uso
 <br>
 <br>
 <div style="display: inline_block">
@@ -13,7 +17,7 @@
   
 </div><br/>
 
-## Contato
+### Contato
 <br>
 <br>
 
